@@ -1,0 +1,23 @@
+/*Body CSS*/
+body {
+  background-color: lightblue;
+}
+
+p,
+h1,
+h2 {
+  font-family: sans-serif;
+}
+
+img {
+  border: white dashed 5px;
+}
+
+.list-title,
+.copyright-text,
+.link-text,
+h2 {
+  border: white dashed 5px;
+  padding: 5px;
+  display: inline-table;
+}
